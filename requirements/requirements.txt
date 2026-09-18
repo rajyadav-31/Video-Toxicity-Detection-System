@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+nltk
+SpeechRecognition
+pydub
+moviepy
+lightgbm
+gradio
